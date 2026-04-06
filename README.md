@@ -11,7 +11,7 @@ This calculator performs various operations:
 4.) Exponenets
 5.) Factorials
 6.) Trignometric values
-7.) 
+7.) Division
 
 What I aim to learn more from this:
 
